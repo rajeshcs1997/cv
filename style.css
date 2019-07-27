@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    color:#3b3c39;
+    background-color: white;
+}
+.profile-card{
+  width: 500px;
+  margin: auto;
+  background: #ffffff;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0,1);  
+}
+.info{
+    color: #4b4fe2;
+    margin-right: 16px;
+}
+.main-container{
+    padding: 20px;
+}
+h1{
+    color: rgb(47, 49, 184);
+    width: 250px;
+}
+.i{
+    color: white;
+    background-color: black;
+    width: 100px;
+}
+.about{
+    margin: 0px;
+    padding:0px;
+}
+.text{
+    margin-left: 15px;
+    margin-top: 0px;
+}
+.skill-bar{
+ background-color: green;
+ border-radius: 16px;
+ width: 400px;
+}
+.progress-bar{
+    padding: 0.1em 16px;
+    border-radius: 16PX;
+    text-align: center;
+    color: #fff;
+    background-color: #4b4fe2;
+}
+.button{
+    margin-top: 25px;
+    margin-left: 200px;
+    background-color: blue; 
+    margin-bottom: 10px;
+}
